@@ -6,8 +6,6 @@
 
 ## Overview
 
-## Overview
-
 This project was originally built in **2022** during my HTML and CSS learning phase while following a **Full Stack Web Development** course by **DevTown**.
 
 The project focuses on recreating the landing page of Zomato using HTML and CSS to understand webpage structure, CSS styling, layouts, and basic responsive design concepts. During the learning process, I also customized parts of the text and images to explore the project beyond the guided lessons.
